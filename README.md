@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RonBis
 - 👀 I’m interested in Fullstack Web Dev, Native Mobile Apps, Game Dev and much more!!
 - 🌱 I’m currently learning Flutter, NextJS
-- 💞️ Currently making an experimental social media platform
+- 💞️ Getting a deep dive in low level programming. 
