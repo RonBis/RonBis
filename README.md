@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RonBis
 - 👀 I’m interested in Fullstack Web Dev, Native Mobile Apps, Game Dev and much more!!
-- 🌱 I'm currently learning elixir.
+- 🌱 I'm currently learning Rust and Elixir.
 - 💞️ Getting a deep dive in low level programming.
